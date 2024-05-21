@@ -12,6 +12,8 @@
 
 <a href="https://github.com/Jtalbert15/Creating-a-user-and-adding-them-to-a-group-policy">Adding a user to the domain and assigning that user to a group policy</a>
 
+<a href="https://github.com/Jtalbert15/Resetting-a-password-using-Active-Directory/blob/main/README.md">Finding and resetting a users password </a>
+
 
 
 
