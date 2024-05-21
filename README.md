@@ -8,7 +8,7 @@
 
 <a href="https://github.com/Jtalbert15/Setting-up-Active-Directory-on-our-Windows-Server-2019">Setting up Active directory with Windows Server 2019 </a>
 
-<a href="https://github.com/Jtalbert15/Adding-A-computer-to-our-domain">Adding a computer to a domain</a> 
+<a href="https://github.com/Jtalbert15/Adding-A-computer-to-our-domain">Adding a computer to the domain</a> 
 
 <a href="https://github.com/Jtalbert15/Creating-a-user-and-adding-them-to-a-group-policy">Adding a user to the domain and assigning that user to a group policy</a>
 
