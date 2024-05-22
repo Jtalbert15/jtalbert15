@@ -1,6 +1,6 @@
 ## Hello, below I have linked projects I have completed in my home lab
 
-<h1>Creation of home lab</h1>
+<h1>Creation of my home lab</h1>
 
 <a href="https://github.com/Jtalbert15/Installing-Virtual-Machine-and-Windows-ISO-s">Setting up and Installing Virtual Machines using Virtual Box </a> 
 
