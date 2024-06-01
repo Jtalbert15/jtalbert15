@@ -26,6 +26,10 @@
 
 <a href="https://github.com/Jtalbert15/Creating-a-group-and-sharing-Files/blob/main/README.md">Creating a group and sharing files</a>
 
+<h1>Powershell</h1>
+
+<a href="https://github.com/Jtalbert15/Powershell-basics/blob/main/README.md">Some PowerShell Basics</a>
+
 <h1><a href="https://github.com/Jtalbert15/Remote-accessing-a-domain-users-computer/blob/main/README.md">Using Remote Desktop to connect to a computer</a></h1>
 
 
