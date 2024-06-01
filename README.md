@@ -30,6 +30,8 @@
 
 <a href="https://github.com/Jtalbert15/Powershell-basics/blob/main/README.md">Some PowerShell Basics</a>
 
+<a href="https://github.com/Jtalbert15/Modifying-Active-Directory-with-Powershell/blob/main/README.md">Active Directory using powershell</a>
+
 <h1><a href="https://github.com/Jtalbert15/Remote-accessing-a-domain-users-computer/blob/main/README.md">Using Remote Desktop to connect to a computer</a></h1>
 
 
