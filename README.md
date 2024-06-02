@@ -32,6 +32,8 @@
 
 <a href="https://github.com/Jtalbert15/Modifying-Active-Directory-with-Powershell/blob/main/README.md">Active Directory using powershell</a>
 
+<a href="https://github.com/Jtalbert15/Powershell-ISE-and-scripting/blob/main/README.md">Powershell ISE and scripting</a>
+
 <h1><a href="https://github.com/Jtalbert15/Remote-accessing-a-domain-users-computer/blob/main/README.md">Using Remote Desktop to connect to a computer</a></h1>
 
 
