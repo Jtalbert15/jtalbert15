@@ -34,7 +34,11 @@
 
 <a href="https://github.com/Jtalbert15/Powershell-ISE-and-scripting/blob/main/README.md">Powershell ISE and scripting</a>
 
-<h1><a href="https://github.com/Jtalbert15/Remote-accessing-a-domain-users-computer/blob/main/README.md">Using Remote Desktop to connect to a computer</a></h1>
+<h1>Miscellaneous / Networking </h1>
+
+<a href="https://github.com/Jtalbert15/Remote-accessing-a-domain-users-computer/blob/main/README.md">Using Remote Desktop to connect to a computer</a>
+
+<a href="https://github.com/Jtalbert15/Using-Tracert-to-diagnose-network-issues/blob/main/README.md">Using Tracert to diagnose network issues</a>
 
 
 
