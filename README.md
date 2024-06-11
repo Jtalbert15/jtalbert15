@@ -16,6 +16,8 @@
 
 <a href="https://github.com/Jtalbert15/Creating-a-group-policy">Creating a Group Policy Object</a>
 
+<a href="https://github.com/Jtalbert15/Organizational-Units-and-Group-Policy/blob/main/README.md">Organizatioal Units and Group Policy</a>
+
 <h1>Microsoft 365</h1>
 
 <a href="https://github.com/Jtalbert15/Creating-a-user-in-Microsoft-365/blob/main/README.md">Creating a User with admin center</a>
