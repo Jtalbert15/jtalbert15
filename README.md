@@ -14,8 +14,6 @@
 
 <a href="https://github.com/Jtalbert15/Resetting-a-password-using-Active-Directory/blob/main/README.md">Finding and resetting a users password </a>
 
-<a href="https://github.com/Jtalbert15/Creating-a-group-policy">Creating a Group Policy Object</a>
-
 <a href="https://github.com/Jtalbert15/Organizational-Units-and-Group-Policy/blob/main/README.md">Organizatioal Units and Group Policy</a>
 
 <h1>Microsoft 365</h1>
