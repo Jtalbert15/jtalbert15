@@ -1,8 +1,4 @@
-## Hello, below I have linked projects I have completed in my home lab
-
-<h1>Creation of my home lab</h1>
-
-<a href="https://github.com/Jtalbert15/Installing-Virtual-Machine-and-Windows-ISO-s">Setting up and Installing Virtual Machines using Virtual Box </a> 
+<h1>Welcome to My IT portfolio! Below I have provided links to some of the projects I have completed</h1>
 
 <h1>Active Directory</h1>
 
@@ -43,6 +39,10 @@
 <a href="https://github.com/Jtalbert15/Using-Tracert-to-diagnose-network-issues/blob/main/README.md">Using Tracert to diagnose network issues</a>
 
 <a href="https://github.com/Jtalbert15/Creating-a-LDAP/blob/main/README.md">Creating a LDAP</a>
+
+<h1>Creation of my home lab</h1>
+
+<a href="https://github.com/Jtalbert15/Installing-Virtual-Machine-and-Windows-ISO-s">Setting up and Installing Virtual Machines using Virtual Box </a> 
 
 
 
